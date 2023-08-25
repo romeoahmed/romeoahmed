@@ -32,6 +32,5 @@
 # About My Github 🌐
 [![Top Langs](https://github-readme-stats-ruby-psi-92.vercel.app/api/top-langs/?username=romeoahmed)](https://github.com/anuraghazra/github-readme-stats)  
 ![Romeo Ahmed's GitHub stats](https://github-readme-stats-ruby-psi-92.vercel.app/api?username=romeoahmed&show_icons=true?count_private=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=romeoahmed)](https://git.io/streak-stats)  
 [![Romeo Ahmed's github activity graph](https://github-readme-activity-graph-henna.vercel.app//graph?username=romeoahmed&theme=gihub)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
