@@ -14,7 +14,6 @@
 - 🔒 My real name? Oh, **that's a secret ο(=•ω＜=)ρ⌒☆**
 
 # Development Environment 💻
-
 - Programming Languages  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> 
@@ -28,6 +27,12 @@
 - Operating Systems  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="35" height="35"/>
+
+# My Projects 📚
+| Project Name | Description | Language | Status |
+| :----: | :----: | :----: | :----: |
+| [pyssoier_answer_py](https://github.com/romeoahmed/pyssoier_answer_py) | Some answers to questions from pyssoier written in Python. | Python | ![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_answer_py?style=flat) ![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_answer_py?style=flat) |
+| [pyssoier_answer_cpp](https://github.com/romeoahmed/pyssoier_answer_cpp) | Some answers to questions from pyssoier written in C++. | C++ | ![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_answer_cpp?style=flat) ![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_answer_cpp?style=flat) |
 
 # About My Github 🌐
 [![Top Langs](https://github-readme-stats-ruby-psi-92.vercel.app/api/top-langs/?username=romeoahmed)](https://github.com/anuraghazra/github-readme-stats)  
