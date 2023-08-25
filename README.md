@@ -1,4 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Keep+Coding+Everyday.)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romeoahmed/romeoahmed/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romeoahmed/romeoahmed/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/romeoahmed/romeoahmed/output/github-contribution-grid-snake.svg">
+</picture>
+
 # Hi, I'm Romeo Ahmed 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=romeoahmed.romeoahmed)  
 - 🏠 A senior high school student from **Shenzhen, China**
@@ -40,3 +46,4 @@
 ![Romeo Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=romeoahmed&show_icons=true)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=romeoahmed)](https://git.io/streak-stats)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=romeoahmed&theme=gihub)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
