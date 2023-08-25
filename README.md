@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Keep+Coding+Everyday.)](https://git.io/typing-svg)
-### Hi there 👋
+# Hi, I'm Romeo Ahmed 👋
 ![](https://komarev.com/ghpvc/?username=romeoahmed)  
 I'm a senior high school student from Shenzhen, China.  
 Studying at Shenzhen Experimental School now. 
