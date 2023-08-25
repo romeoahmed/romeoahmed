@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Keep+Coding+Everyday.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Welcome%22;%3DKeep+Coding+Everyday.)](https://git.io/typing-svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romeoahmed/romeoahmed/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romeoahmed/romeoahmed/output/github-contribution-grid-snake.svg">
