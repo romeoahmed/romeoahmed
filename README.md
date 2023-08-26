@@ -31,10 +31,10 @@
 # My Projects 📚
 | Project Name | Description | Language | Status |
 | :----: | :----: | :----: | :----: |
-| [Pyssoier Answer - Python Edition](https://github.com/romeoahmed/pyssoier_ans_py) | Some answers to questions from pyssoier written in Python. | Python | ![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_ans_py?style=flat) ![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_ans_py?style=flat) |
-| [Pyssoier Answer - C++ Edition](https://github.com/romeoahmed/pyssoier_ans_cpp) | Some answers to questions from pyssoier written in C++. | C++ | ![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_ans_cpp?style=flat) ![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_ans_cpp?style=flat) |
+| [Pyssoier Answer - Python Edition](https://github.com/romeoahmed/pyssoier_ans_py) | Some answers to questions from [pyssoier](http://py.ssoier.cn:7077/) written in Python. | Python | ![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_ans_py?style=flat) ![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_ans_py?style=flat) |
+| [Pyssoier Answer - C++ Edition](https://github.com/romeoahmed/pyssoier_ans_cpp) | Some answers to questions from [pyssoier](http://py.ssoier.cn:7077/) written in C++. | C++ | ![GitHub stars](https://img.shields.io/github/stars/romeoahmed/pyssoier_ans_cpp?style=flat) ![GitHub forks](https://img.shields.io/github/forks/romeoahmed/pyssoier_ans_cpp?style=flat) |
 
-# About My Github 🌐
+# About My Github 📊
 [![Top Langs](https://github-readme-stats-ruby-psi-92.vercel.app/api/top-langs/?username=romeoahmed)](https://github.com/anuraghazra/github-readme-stats)  
 ![Romeo Ahmed's GitHub stats](https://github-readme-stats-ruby-psi-92.vercel.app/api?username=romeoahmed&show_icons=true?count_private=true)  
 [![Romeo Ahmed's github activity graph](https://github-readme-activity-graph-henna.vercel.app//graph?username=romeoahmed&theme=gihub)](https://github.com/ashutosh00710/github-readme-activity-graph)  
