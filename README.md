@@ -14,7 +14,6 @@
 - 🏫 Studying at **Shenzhen Experimental School**
 - 📕 Currently learning **C++**
 - 📫 My email? **ahmedorqwn@gmail.com**
-- 🔒 My real name? Oh, **that's a secret ο(=•ω＜=)ρ⌒☆**
 
 # Development Environment 💻
 - Programming Languages  
