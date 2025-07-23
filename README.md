@@ -11,9 +11,8 @@
 # Hi, I'm Romeo Ahmed 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=romeoahmed.romeoahmed)  
 - 🏠 A senior high school student from **Shenzhen, China**
-- 🏫 Studying at **Shenzhen Experimental School**
-- 📕 Currently learning **C++**
-- 📫 My email? **ahmedorqwn@gmail.com**
+- 📕 Currently learning **JavaScript**
+- 📫 Email: **ahmedorqwn@gmail.com**
 
 # Development Environment 💻
 - Programming Languages  
@@ -21,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 
 - Development Tools  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
