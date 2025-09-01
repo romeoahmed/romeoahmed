@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=2000&center=true&vCenter=true&width=600&separator=%3D&lines=std%3A%3Acout+%3C%3C+%22Welcome%22;%3DKeep+Coding+Everyday." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=Keep+It+Simple%2C+Stupid%3CWrite(%22Hello%2C+world!%22);" alt="Typing SVG" />
 </a>
 
 <picture>
