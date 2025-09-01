@@ -10,7 +10,7 @@
 
 # Hi, I'm Romeo Ahmed 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=romeoahmed.romeoahmed)  
-- 🏠 A senior high school student from **Shenzhen, China**
+- 🏠 Student from **Great Bay University**
 - 📕 Currently learning **JavaScript**
 - 📫 Email: **ahmedorqwn@gmail.com**
 
